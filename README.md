@@ -1,4 +1,6 @@
-# Food Delivery using Angular
+# Online Food Booking
+---
+## Order your food through online
 It is a front-end part for food delivery
 
 It includes
@@ -19,4 +21,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 Open terminal on your computer, Navigate to the folder you would like to clone the project into and run:
 
-`code`
+`git clone https://github.com/Saleelzakkariya/Food-Devlivary.git`
+
+`cd Food-Devlivary`
+
+`npm install`
+
+`ng serve`
+
+Open a tab in your browser and navigate to localhost:4200 You should be taken to the Home Page of our delivery service web application
