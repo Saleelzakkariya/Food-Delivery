@@ -21,12 +21,14 @@ These instructions will get you a copy of the project up and running on your loc
 
 Open terminal on your computer, Navigate to the folder you would like to clone the project into and run:
 
-`git clone https://github.com/Saleelzakkariya/Food-Devlivary.git`
+`git clone https://github.com/Saleelzakkariya/Food-Delivery.git`
 
-`cd Food-Devlivary`
+`cd Food-Delivery`
 
+Install the project packages
 `npm install`
 
+Run the project
 `ng serve`
 
-Open a tab in your browser and navigate to localhost:4200 You should be taken to the Home Page of our delivery service web application
+Open a tab in your browser and navigate to `http://localhost:4200/` You should be taken to the Home Page of our delivery service web application
