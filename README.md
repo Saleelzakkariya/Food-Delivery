@@ -38,36 +38,34 @@ Finally run the project
 # ScreenShots
 ## Website Header
 
-![Header](https://user-images.githubusercontent.com/57888768/117586006-3379c980-b133-11eb-86c5-d8a9ffcd2bbb.png)
+![Header](https://user-images.githubusercontent.com/57888768/117586338-32499c00-b135-11eb-98e8-5daa54813572.png)
 
 ---
 ## Content `Restuarant List`
 
-![Content](https://user-images.githubusercontent.com/57888768/117586014-3c6a9b00-b133-11eb-9f65-ee479c43e1b3.png)
+![Content](https://user-images.githubusercontent.com/57888768/117586343-3b3a6d80-b135-11eb-8794-c6327da0d482.png)
 
 ---
 ## Website Footer
 
-![Footer](https://user-images.githubusercontent.com/57888768/117586018-42607c00-b133-11eb-8937-d702ad42cb61.png)
+![Footer](https://user-images.githubusercontent.com/57888768/117586348-44c3d580-b135-11eb-9368-95dfe37a0b1c.png)
 
 ----
 
 ## Login page
 
-![Login](https://user-images.githubusercontent.com/57888768/117586050-68861c00-b133-11eb-9d6a-a3253dc12b91.png)
+![login](https://user-images.githubusercontent.com/57888768/117586352-49888980-b135-11eb-935c-8907571edca8.png)
 
 ----
 
 ## Food list as per restuarant 
 
-![FoodMenu](https://user-images.githubusercontent.com/57888768/117586053-6e7bfd00-b133-11eb-86ef-12ec06cc492f.png
-
-![FoodList](https://user-images.githubusercontent.com/57888768/117586041-5f954a80-b133-11eb-9595-390d72f69169.png
+![FoodMenu](https://user-images.githubusercontent.com/57888768/117586355-4c837a00-b135-11eb-813c-59dcd976fffa.png
+)
 
 ---
 
 ## Simple checkout screen
-
-![Checkout](https://user-images.githubusercontent.com/57888768/117586076-7e93dc80-b133-11eb-8456-7252e46ff246.png)
+![Checkout](https://user-images.githubusercontent.com/57888768/117586360-51e0c480-b135-11eb-9945-91c5dc838343.png)
 
 
