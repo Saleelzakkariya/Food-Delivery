@@ -9,6 +9,7 @@ import { CartReducer } from './cart/reducers/cart.reducer';
 import { StoreModule } from '@ngrx/store';
 import { FoodsComponent } from './foods/foods.component';
 import { CheckoutComponent } from './checkout/checkout.component';
+import { SignupComponent } from './signup/signup.component';
 // import { SignupComponent } from 'app/examples/signup/signup.component';
 
 @NgModule({
@@ -26,6 +27,7 @@ import { CheckoutComponent } from './checkout/checkout.component';
         ComponentsComponent,
         CheckoutComponent,
         FoodsComponent,
+        SignupComponent,
         // SignupComponent
     
     ],

@@ -6,7 +6,7 @@ import { Routes, RouterModule } from '@angular/router';
 import { ComponentsComponent } from './components/components.component';
 import { CheckoutComponent } from './components/checkout/checkout.component';
 import { FoodsComponent } from './components/foods/foods.component';
-import { SignupComponent } from './examples/signup/signup.component';
+import { SignupComponent } from './components/signup/signup.component';
 
 const routes: Routes = [
   { path: '', redirectTo: 'home', pathMatch: 'full' },

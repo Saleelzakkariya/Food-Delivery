@@ -14,7 +14,6 @@ import { ToastrModule } from 'ngx-toastr';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { CartReducer } from './components/cart/reducers/cart.reducer';
 import { StoreModule } from '@ngrx/store';
-import { SignupComponent } from './app/components/signup/signup.component';
 
 
 @NgModule({
@@ -22,7 +21,6 @@ import { SignupComponent } from './app/components/signup/signup.component';
     AppComponent,
     NavbarComponent,
     FooterComponent,
-    SignupComponent
   ],
   imports: [
     BrowserModule,
