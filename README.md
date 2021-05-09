@@ -1,7 +1,7 @@
-# Online Food Booking
+# OrderMyFood
 ---
 ## Order your food through online
-It is a front-end part for food delivery
+It is a front-end part for online food ordering
 
 It includes
 
