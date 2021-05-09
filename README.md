@@ -29,7 +29,7 @@ Install all packages in the project
 Finally run the project
  `ng serve`
  
- Open a tab in your browser and navigate to [http://localhost:4200/](http://localhost:4200/) You should be taken to the Home Page of our delivery service web application and can log in with a Google account at the top right.
+ Open a tab in your browser and navigate to [http://localhost:4200/](http://localhost:4200/) You should be taken to the Home Page .
  
  ## Build with 
  - Angular 9+
